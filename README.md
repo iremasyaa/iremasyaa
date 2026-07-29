@@ -34,17 +34,43 @@
 
 ### 🛠️ Öğrendiğim & Kullandığım Teknolojiler
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-D4537E?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-7F77DD?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-9B59D0?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework-378ADD?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-5DCAA5?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-D85A30?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-ED93B1?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-F0997B?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-534AB7?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<br>
+
+<table align="center">
+  <tr>
+    <th align="center">🌐 Ön Uç Geliştirme</th>
+    <th align="center">⚙️ Arka Uç ve Diller</th>
+    <th align="center">🗄️ Veritabanları ve Araçlar</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" style="margin: 0 5px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" style="margin: 0 5px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" style="margin: 0 5px;" />
+      <br><br>
+    </td>
+    <td align="center">
+      <br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" style="margin: 0 5px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt=".NET" style="margin: 0 5px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" style="margin: 0 5px;" />
+      <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" style="margin: 0 5px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" style="margin: 0 5px;" />
+      <br><br>
+    </td>
+    <td align="center">
+      <br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" style="margin: 0 5px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server" style="margin: 0 5px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" style="margin: 0 5px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub" style="margin: 0 5px;" />
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
