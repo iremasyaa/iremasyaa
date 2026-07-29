@@ -74,32 +74,42 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 📚 Öğrenme Sürecimdeki Projelerim
+### 📚 Geliştirdiğim Projeler
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/iremasyaa/ClothingStore"><img src="https://img.shields.io/badge/🛍️_ClothingStore-FF69B4?style=for-the-badge&labelColor=2C2C2A" /></a><br/><br/>
       ASP.NET Core MVC, EF Core ve SQL Server ile geliştirdiğim; kişisel kayıtlar, dijital gardırop ve sanal stil deneme özellikli bir e-ticaret öğrenci projesi.
-      <br/><br/><a href="https://github.com/iremasyaa/ClothingStore">🔗 Repoya git</a>
+      <br/><br/>
+      <a href="https://github.com/iremasyaa/ClothingStore">
+        <img src="https://img.shields.io/badge/GitHub-Depoyu_İncele-FF69B4?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+      </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/iremasyaa/BookStore"><img src="https://img.shields.io/badge/📚_BookStore-8A2BE2?style=for-the-badge&labelColor=2C2C2A" /></a><br/><br/>
       Kitapyurdu.com'dan ilham alınarak ASP.NET Core MVC ve Entity Framework Core ile pratik amaçlı geliştirilmiş çevrimiçi kitap satış uygulaması.
-      <br/><br/><a href="https://github.com/iremasyaa/BookStore">🔗 Repoya git</a>
-    </td>
+      <br/><br/>
+      <a href="https://github.com/iremasyaa/BookStore">
+        <img src="https://img.shields.io/badge/GitHub-Depoyu_İncele-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+      </a>
+  </td>
   </tr>
   <tr>
     <td width="50%" colspan="2" valign="top">
       <a href="https://github.com/iremasyaa/c-cpp-programming-exercises"><img src="https://img.shields.io/badge/🧮_C--CPP_Programming_Exercises-3B82F6?style=for-the-badge&labelColor=2C2C2A" /></a><br/><br/>
       C and C++ dersleri ve pratikleri kapsamında yazdığım temel çözüm çözümleri ve problem çözmeleri.
-      <br/><br/><a href="https://github.com/iremasyaa/c-cpp-programming-exercises">🔗 Repoya git</a>
+      <br/><br/>
+      <a href="https://github.com/iremasyaa/c-cpp-programming-exercises">
+        <img src="https://img.shields.io/badge/GitHub-Depoyu_İncele-3B82F6?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo" />
+      </a>
     </td>
   </tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+### 📊 İstatistiklerim
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremasyaa&theme=default&hide_border=true&fire=D4537E&ring=7F77DD&currStreakLabel=7F77DD" alt="Streak Stats" />
 </div>
