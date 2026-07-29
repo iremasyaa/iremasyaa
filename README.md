@@ -79,19 +79,19 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/🛍️_ClothingStore-D4537E?style=for-the-badge&labelColor=2C2C2A" /><br/><br/>
+      <a href="https://github.com/iremasyaa/ClothingStore"><img src="https://img.shields.io/badge/🛍️_ClothingStore-FF69B4?style=for-the-badge&labelColor=2C2C2A" /></a><br/><br/>
       ASP.NET Core MVC, EF Core ve SQL Server ile geliştirdiğim; kişisel kayıtlar, dijital gardırop ve sanal stil deneme özellikli bir e-ticaret öğrenci projesi.
       <br/><br/><a href="https://github.com/iremasyaa/ClothingStore">🔗 Repoya git</a>
     </td>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/📚_BookStore-7F77DD?style=for-the-badge&labelColor=2C2C2A" /><br/><br/>
+      <a href="https://github.com/iremasyaa/BookStore"><img src="https://img.shields.io/badge/📚_BookStore-8A2BE2?style=for-the-badge&labelColor=2C2C2A" /></a><br/><br/>
       Kitapyurdu.com'dan ilham alınarak ASP.NET Core MVC ve Entity Framework Core ile pratik amaçlı geliştirilmiş çevrimiçi kitap satış uygulaması.
       <br/><br/><a href="https://github.com/iremasyaa/BookStore">🔗 Repoya git</a>
     </td>
   </tr>
   <tr>
     <td width="50%" colspan="2" valign="top">
-      <img src="https://img.shields.io/badge/🧮_C--CPP_Programming_Exercises-378ADD?style=for-the-badge&labelColor=2C2C2A" /><br/><br/>
+      <a href="https://github.com/iremasyaa/c-cpp-programming-exercises"><img src="https://img.shields.io/badge/🧮_C--CPP_Programming_Exercises-3B82F6?style=for-the-badge&labelColor=2C2C2A" /></a><br/><br/>
       C and C++ dersleri ve pratikleri kapsamında yazdığım temel çözüm çözümleri ve problem çözmeleri.
       <br/><br/><a href="https://github.com/iremasyaa/c-cpp-programming-exercises">🔗 Repoya git</a>
     </td>
