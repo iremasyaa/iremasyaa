@@ -7,7 +7,7 @@
   </a>
   <br>
   <a href="https://github.com/iremasyaa">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&height=50&lines=%E2%8B%86+Computer+Engineering+Student+%E2%8B%86" alt="Computer Engineering Student" />
+   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&height=50&lines=%E2%8B%86+Computer+Engineering+Student+%E2%8B%86" alt="Computer Engineering Student" />
   </a>
 
   <br><br>
@@ -15,7 +15,6 @@
   <!-- İletişim Rozetleri -->
   <a href="https://www.linkedin.com/in/-iremaltun/"><img src="https://img.shields.io/badge/LINKEDIN-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:iremasyaaltun@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=iremasyaa&label=PROFILE+VIEWS&color=9370DB&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -23,12 +22,12 @@
 
 ### 🎓 Hakkımda
 
-- 🎓 **Atatürk Üniversitesi'nde Bilgisayar Mühendisliği** öğrencisiyim
-- 💻 **ASP.NET Core MVC, Entity Framework Core ve SQL Server** kullanarak web ve e-ticaret projeleri geliştirerek kendimi eğitiyorum
-- 🧩 **C ve C++** dilleriyle temel algoritmalar, veri yapıları ve problem çözme pratikleri yapıyorum
-- 🌱 Derslerim ve kişisel projelerim aracılığıyla backend geliştirme becerilerimi adım adım derinleştiriyorum
-- 📫 Bana ulaşmak için: 📧 iremasyaaltun@gmail.com | 💼 https://www.linkedin.com/in/-iremaltun/
-- ⚡ İlgi alanlarım: web geliştirme, veritabanı tasarımı, temiz kod ve yeni teknolojiler öğrenmek
+- 🎓 **Atatürk Üniversitesi'nde Bilgisayar Mühendisliği** öğrencisiyim.
+- 💻 **ASP.NET Core MVC, Entity Framework Core ve SQL Server** kullanarak web ve e-ticaret projeleri geliştiriyorum.
+- 🧩 **C ve C++** dilleriyle temel algoritmalar, veri yapıları ve problem çözme pratikleri yapıyorum.
+- 🌱 Derslerim ve kişisel projelerim aracılığıyla frontend ve backend üzerine çalışıyorum.
+- 📫 İletişim için: 📧 iremasyaaltun@gmail.com | 💼 https://www.linkedin.com/in/-iremaltun/
+- ⚡ İlgi alanlarım: web geliştirme, veritabanı tasarımı, yapay zeka ve yeni teknolojiler öğrenmek.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -38,9 +37,9 @@
 
 <table align="center">
   <tr>
-    <th align="center">🌐 Ön Uç Geliştirme</th>
-    <th align="center">⚙️ Arka Uç ve Diller</th>
-    <th align="center">🗄️ Veritabanları ve Araçlar</th>
+    <th align="center"><img src="https://img.shields.io/badge/🌐_Frontend_Geliştirme-FF69B4?style=for-the-badge&labelColor=2C2C2A" /></th>
+    <th align="center"><img src="https://img.shields.io/badge/⚙️_Backend_Geliştirme-8A2BE2?style=for-the-badge&labelColor=2C2C2A" /></th>
+    <th align="center"><img src="https://img.shields.io/badge/🗄️_Veritabanı_&_Araçlar-3B82F6?style=for-the-badge&labelColor=2C2C2A" /></th>
   </tr>
   <tr>
     <td align="center">
@@ -52,11 +51,11 @@
     </td>
     <td align="center">
       <br>
+      <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" style="margin: 0 5px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" style="margin: 0 5px;" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" style="margin: 0 5px;" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt=".NET" style="margin: 0 5px;" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" style="margin: 0 5px;" />
-      <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" style="margin: 0 5px;" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" style="margin: 0 5px;" />
       <br><br>
     </td>
     <td align="center">
