@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🎓 Hakkımda
 
@@ -30,7 +30,7 @@
 - 📫 Bana ulaşmak için: 📧 iremasyaaltun@gmail.com | 💼 https://www.linkedin.com/in/-iremaltun/
 - ⚡ İlgi alanlarım: web geliştirme, veritabanı tasarımı, temiz kod ve yeni teknolojiler öğrenmek
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🛠️ Öğrendiğim & Kullandığım Teknolojiler
 
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Git-534AB7?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 📚 Öğrenme Sürecimdeki Projelerim
 
@@ -66,20 +66,16 @@
   <tr>
     <td width="50%" colspan="2" valign="top">
       <img src="https://img.shields.io/badge/🧮_C--CPP_Programming_Exercises-378ADD?style=for-the-badge&labelColor=2C2C2A" /><br/><br/>
-      C ve C++ dersleri ve pratikleri kapsamında yazdığım temel algoritma çözümleri ve problem çözme alıştırmaları.
+      C and C++ dersleri ve pratikleri kapsamında yazdığım temel çözüm çözümleri ve problem çözmeleri.
       <br/><br/><a href="https://github.com/iremasyaa/c-cpp-programming-exercises">🔗 Repoya git</a>
     </td>
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremasyaa&theme=default&hide_border=true&fire=D4537E&ring=7F77DD&currStreakLabel=7F77DD" alt="Streak Stats" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-🌸_💜_💙-2C2C2A?style=for-the-badge" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
