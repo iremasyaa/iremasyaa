@@ -1,20 +1,25 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%">
+
 <div align="center">
 
-  <!-- Hareketli Başlık -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D4537E&center=true&vCenter=true&width=650&height=50&lines=Merhaba%2C+ben+Irem!+%F0%9F%91%8B;Bilgisayar+Muhendisligi+Ogrencisi;Backend+ve+Yazilim+Gelistirme" alt="Typing SVG" />
+  <a href="https://github.com/iremasyaa">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=34&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+Hi,+I+am+%C4%B0rem+%E2%9C%A6" alt="Hi, I am İrem" />
+  </a>
+  <br>
+  <a href="https://github.com/iremasyaa">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&height=50&lines=%E2%8B%86+Computer+Engineering+Student+%E2%8B%86" alt="Computer Engineering Student" />
   </a>
 
-  <!-- Profil İstatistik Rozetleri -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/followers-2-D4537E?style=for-the-badge&labelColor=2C2C2A" />
-    <img src="https://img.shields.io/badge/following-4-7F77DD?style=for-the-badge&labelColor=2C2C2A" />
-    <img src="https://img.shields.io/badge/repos-7-378ADD?style=for-the-badge&labelColor=2C2C2A" />
-  </p>
+  <br><br>
+
+  <!-- İletişim Rozetleri -->
+  <a href="https://www.linkedin.com/in/-iremaltun/"><img src="https://img.shields.io/badge/LINKEDIN-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:iremasyaaltun@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=iremasyaa&label=PROFILE+VIEWS&color=9370DB&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%">
 
 ### 🎓 Hakkımda
 
@@ -25,7 +30,7 @@
 - 📫 Bana ulaşmak için: 📧 iremasyaaltun@gmail.com | 💼 https://www.linkedin.com/in/-iremaltun/
 - ⚡ İlgi alanlarım: web geliştirme, veritabanı tasarımı, temiz kod ve yeni teknolojiler öğrenmek
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%">
 
 ### 🛠️ Öğrendiğim & Kullandığım Teknolojiler
 
@@ -41,7 +46,7 @@
   <img src="https://img.shields.io/badge/Git-534AB7?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%">
 
 ### 📚 Öğrenme Sürecimdeki Projelerim
 
@@ -67,22 +72,13 @@
   </tr>
 </table>
 
----
-
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iremasyaa&show_icons=true&hide_border=true&bg_color=ffffff&title_color=D4537E&icon_color=7F77DD&text_color=333333" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremasyaa&layout=compact&hide_border=true&bg_color=ffffff&title_color=D4537E&text_color=333333" alt="Top Languages" />
-</div>
-
-<br />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%">
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremasyaa&theme=default&hide_border=true&fire=D4537E&ring=7F77DD&currStreakLabel=7F77DD" alt="Streak Stats" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" width="100%">
 
 <p align="center">
   <img src="https://img.shields.io/badge/-🌸_💜_💙-2C2C2A?style=for-the-badge" />
