@@ -1,30 +1,33 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4537E,50:7F77DD,100:378ADD&height=200&section=header&text=İrem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20ASP.NET%20Core%20%26%20C%2FC%2B%2B&descAlignY=58&descSize=18" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9B59D0&center=true&vCenter=true&width=550&lines=ASP.NET+Core+MVC+ile+web+geliştiriyorum;Entity+Framework+Core+kullanıyorum;C+%2F+C%2B%2B+ile+algoritma+çözüyorum;Yeni+şeyler+öğrenmeye+açığım+%F0%9F%92%9C" alt="Typing SVG" />
-</p>
+  <!-- Hareketli Başlık -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D4537E&center=true&vCenter=true&width=650&height=50&lines=Merhaba%2C+ben+Irem!+%F0%9F%91%8B;Bilgisayar+Muhendisligi+Ogrencisi;Backend+ve+Yazilim+Gelistirme" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/followers-2-D4537E?style=for-the-badge&labelColor=2C2C2A" />
-  <img src="https://img.shields.io/badge/following-4-7F77DD?style=for-the-badge&labelColor=2C2C2A" />
-  <img src="https://img.shields.io/badge/repos-6-378ADD?style=for-the-badge&labelColor=2C2C2A" />
-</p>
+  <!-- Profil İstatistik Rozetleri -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/followers-2-D4537E?style=for-the-badge&labelColor=2C2C2A" />
+    <img src="https://img.shields.io/badge/following-4-7F77DD?style=for-the-badge&labelColor=2C2C2A" />
+    <img src="https://img.shields.io/badge/repos-7-378ADD?style=for-the-badge&labelColor=2C2C2A" />
+  </p>
 
----
-
-### 🧭 Hakkımda
-
-- 💻 ASP.NET Core MVC, Entity Framework Core ve SQL Server ile **e-ticaret** ve **web uygulamaları** geliştiriyorum
-- 🧩 C ve C++ ile algoritma ve problem çözme pratiği yapıyorum
-- 🌱 Şu anda backend geliştirme becerilerimi derinleştiriyorum
-- 📫 Bana ulaşmak için: **[e-posta adresini buraya ekle]**
-- ⚡ İlgi alanlarım: web geliştirme, veritabanı tasarımı, temiz kod
+</div>
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+### 🎓 Hakkımda
+
+- 🎓 **Atatürk Üniversitesi'nde Bilgisayar Mühendisliği** öğrencisiyim
+- 💻 **ASP.NET Core MVC, Entity Framework Core ve SQL Server** kullanarak web ve e-ticaret projeleri geliştirerek kendimi eğitiyorum
+- 🧩 **C ve C++** dilleriyle temel algoritmalar, veri yapıları ve problem çözme pratikleri yapıyorum
+- 🌱 Derslerim ve kişisel projelerim aracılığıyla backend geliştirme becerilerimi adım adım derinleştiriyorum
+- 📫 Bana ulaşmak için: 📧 iremasyaaltun@gmail.com | 💼 https://www.linkedin.com/in/-iremaltun/
+- ⚡ İlgi alanlarım: web geliştirme, veritabanı tasarımı, temiz kod ve yeni teknolojiler öğrenmek
+
+---
+
+### 🛠️ Öğrendiğim & Kullandığım Teknolojiler
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-D4537E?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -40,25 +43,25 @@
 
 ---
 
-### 🚀 Öne Çıkan Projelerim
+### 📚 Öğrenme Sürecimdeki Projelerim
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/🛍️_ClothingStore-D4537E?style=for-the-badge&labelColor=2C2C2A" /><br/><br/>
-      ASP.NET Core MVC, EF Core ve SQL Server ile geliştirdiğim, kişisel dijital gardırop ve sanal stil deneme özellikli bir e-ticaret platformu.
+      ASP.NET Core MVC, EF Core ve SQL Server ile geliştirdiğim; kişisel kayıtlar, dijital gardırop ve sanal stil deneme özellikli bir e-ticaret öğrenci projesi.
       <br/><br/><a href="https://github.com/iremasyaa/ClothingStore">🔗 Repoya git</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/📚_BookStore-7F77DD?style=for-the-badge&labelColor=2C2C2A" /><br/><br/>
-      Kitapyurdu.com'dan ilham alınan, ASP.NET Core MVC ve Entity Framework Core ile geliştirilmiş online kitap satış uygulaması.
+      Kitapyurdu.com'dan ilham alınarak ASP.NET Core MVC ve Entity Framework Core ile pratik amaçlı geliştirilmiş çevrimiçi kitap satış uygulaması.
       <br/><br/><a href="https://github.com/iremasyaa/BookStore">🔗 Repoya git</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" colspan="2">
+    <td width="50%" colspan="2" valign="top">
       <img src="https://img.shields.io/badge/🧮_C--CPP_Programming_Exercises-378ADD?style=for-the-badge&labelColor=2C2C2A" /><br/><br/>
-      C ve C++ ile temel algoritma çözümleri ve problem çözme pratikleri.
+      C ve C++ dersleri ve pratikleri kapsamında yazdığım temel algoritma çözümleri ve problem çözme alıştırmaları.
       <br/><br/><a href="https://github.com/iremasyaa/c-cpp-programming-exercises">🔗 Repoya git</a>
     </td>
   </tr>
@@ -68,17 +71,19 @@
 
 ### 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iremasyaa&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4537E&icon_color=7F77DD&text_color=378ADD" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremasyaa&layout=compact&hide_border=true&bg_color=00000000&title_color=D4537E&text_color=378ADD" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iremasyaa&show_icons=true&hide_border=true&bg_color=ffffff&title_color=D4537E&icon_color=7F77DD&text_color=333333" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremasyaa&layout=compact&hide_border=true&bg_color=ffffff&title_color=D4537E&text_color=333333" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremasyaa&hide_border=true&background=00000000&ring=7F77DD&fire=D4537E&currStreakLabel=378ADD" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremasyaa&theme=default&hide_border=true&fire=D4537E&ring=7F77DD&currStreakLabel=7F77DD" alt="Streak Stats" />
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,50:7F77DD,100:D4537E&height=100&section=footer" />
+  <img src="https://img.shields.io/badge/-🌸_💜_💙-2C2C2A?style=for-the-badge" />
 </p>
